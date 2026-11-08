@@ -49,6 +49,19 @@ package, which provides access to Supabase services and APIs.
 -   Johnpaul Oliver
 -   Rome Miranda
 
+Users & Passwords Demonstration:
+Email:
+    Students:
+        oliver@test.com
+        tecson@test.com
+        realin@test.com
+        miranda@test.com
+        student@test.com
+    Instructors:
+        instructor@test.com
+
+Password:
+    test1234
 ## Hosting Site
 
 [Student Portfolio
